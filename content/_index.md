@@ -98,7 +98,7 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-    - block: collection
+  - block: collection
     id: news
     content:
       title: News
@@ -210,7 +210,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications   
       filters:
@@ -221,6 +221,16 @@ sections:
       columns: '1'
       view: community/my_showcase
       flip_alt_rows: true
+  - block: collection
+    id: awards
+    content:
+      title: Awards
+      filters:
+        folders:
+          - awards
+    design:
+      columns: '2'
+      view: list
   # - block: collection
   #   content:
   #     title: All Publications
