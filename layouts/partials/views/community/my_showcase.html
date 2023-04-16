@@ -17,9 +17,9 @@
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify | truncate (site.Params.abstract_length | default 50) }}
+  {{ $summary = $item.Params.summary | markdownify | emojify | truncate (site.Params.abstract_length | default 100) }}
 {{ else if $item.Params.abstract }}
-  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 50) }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 100) }}
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
