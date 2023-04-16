@@ -57,11 +57,6 @@
         {{ $item.Title | markdownify | emojify }}
         {{- if $do_link}}</a>{{end -}}
       </div>
-      {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}}.
-      {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}}.
-      {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
@@ -69,6 +64,12 @@
       </div>
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+      {{ end }}
+
+      {{ if $item.Params.publication }}
+        {{- $item.Params.publication | markdownify -}}.
+      {{ else if $item.Params.publication_short }}
+        {{- $item.Params.publication_short | markdownify -}}.
       {{ end }}
 
       {{ with $summary }}
