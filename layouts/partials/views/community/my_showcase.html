@@ -57,6 +57,11 @@
         {{ $item.Title | markdownify | emojify }}
         {{- if $do_link}}</a>{{end -}}
       </div>
+      {{ if $item.Params.publication_short }}
+        {{- $item.Params.publication_short | markdownify -}}.
+      {{ else if $item.Params.publication }}
+        {{- $item.Params.publication | markdownify -}}.
+      {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
