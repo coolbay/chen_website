@@ -106,7 +106,7 @@ sections:
         folders:
           - news
     design:
-      columns: '2'
+      columns: '1'
       view: list
   - block: accomplishments
     content:
@@ -229,7 +229,7 @@ sections:
         folders:
           - awards
     design:
-      columns: '2'
+      columns: '1'
       view: list
   # - block: collection
   #   content:

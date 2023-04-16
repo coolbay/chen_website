@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="news-list">
+    {{ range where .Site.RegularPages "Type" "news" }}
+      <div class="news-item">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="date">{{ .Date.Format "January 2, 2006" }}</p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

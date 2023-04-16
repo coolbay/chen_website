@@ -1,16 +1,18 @@
 ---
 title: News
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
-
-# Optional header image (relative to `static/media/` folder).
-header:
+date: 2023-04-16T14:30:00+01:00
+draft: false
+type: news
+news:
+  - title: "New Product Launch"
+    date: 2023-04-16T14:30:00+01:00
+    content: "We are excited to announce the launch of our new product line!"
+  - title: "Company Expansion"
+    date: 2023-04-15T10:00:00+01:00
+    content: "We are pleased to announce that our company has expanded to a new location."
 ---
+
+
 
 ### 2023
 
