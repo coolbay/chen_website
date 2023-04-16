@@ -66,11 +66,13 @@
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
 
-      {{ if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}}.
-      {{ else if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}}.
-      {{ end }}
+      <div class="media-body">
+        {{ if $item.Params.publication }}
+          {{- $item.Params.publication | markdownify -}}.
+        {{ else if $item.Params.publication_short }}
+          {{- $item.Params.publication_short | markdownify -}}.
+        {{ end }}
+      </div>
 
       {{ with $summary }}
       <div class="article-style">
