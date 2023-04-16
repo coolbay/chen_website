@@ -209,7 +209,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: community/compact_citation
+      view: community/my_showcase
       flip_alt_rows: true
   - block: collection
     content:
