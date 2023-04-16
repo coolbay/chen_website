@@ -5,7 +5,7 @@
 
   .image-container {
     display: inline-block;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Change the values to adjust the shadow */
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5); /* Change the values to adjust the shadow */
   }
   
   .image-container img {
