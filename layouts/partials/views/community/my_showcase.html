@@ -1,18 +1,4 @@
-{{/* Dynamic view adjusts to content type. */}}
-{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
-{{ $link := $item.RelPermalink }}
-{{ $target := "" }}
-{{ if $item.Params.external_link }}
-  {{ $link = $item.Params.external_link }}
-  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-{{ end }}
-{{ if eq $item.Type "event" }}
-  {{ $show_authors_only = true }}
-{{ else if eq $item.Type "publication" }}
-  {{ $show_authors_only = true }}
-{{ else if eq $item.Type "project" }}
-  {{ $show_authors_only = true }}
-{{ end }}
+
 
 {{ $item := .item }}
 {{ $widget := .page }}
@@ -47,6 +33,21 @@
   {{ $order = "order-md-2" }}
 {{ end }}
 
+{{/* Dynamic view adjusts to content type. */}}
+{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+{{ if eq $item.Type "event" }}
+  {{ $show_authors_only = true }}
+{{ else if eq $item.Type "publication" }}
+  {{ $show_authors_only = true }}
+{{ else if eq $item.Type "project" }}
+  {{ $show_authors_only = true }}
+{{ end }}
 
 <div class="col-lg-12 mb-5 view-my-showcase">
   <div class="row align-items-center">
@@ -56,7 +57,7 @@
         {{ $item.Title | markdownify | emojify }}
         {{- if $do_link}}</a>{{end -}}
       </div>
-      
+
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
         {{ partial "page_metadata_authors" $item }}
