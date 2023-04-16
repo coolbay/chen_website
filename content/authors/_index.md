@@ -1,4 +1,7 @@
 ---
+# Display name
+title: Chen Zhao
+
 role: Research Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include computer vision, deep learning, image/video
@@ -19,6 +22,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/coolbay
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
 organizations:
   - name: King Abudullah University of Science and Technology (KAUST)
     url: https://www.kaust.edu.sa/en
