@@ -208,8 +208,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: showcase
+      columns: '1'
+      view: community/compact_citation
   - block: collection
     content:
       title: Recent Publications
