@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0082)http://192.168.196.215:8080/layouts/partials/views/community/compact_citation.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body data-new-gr-c-s-check-loaded="14.1104.0" data-gr-ext-installed="">{{ $item := .item }}
+{{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
@@ -34,9 +32,8 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="http://192.168.196.215:8080/layouts/partials/views/community/%7B%7B$link%7D%7D" {{="" $target="" |="" safehtmlattr="" }}="">{{ $item.Title }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
-
     {{ if $item.Params.publication_short }}
       {{- $item.Params.publication_short | markdownify -}}.
     {{ else if $item.Params.publication }}
@@ -77,10 +74,10 @@
     {{ $resource := partial "functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "250x webp" }}
-      <a href="http://192.168.196.215:8080/layouts/partials/views/community/%7B%7B$link%7D%7D" {{="" $target="" |="" safehtmlattr="" }}="" class="ignore-media">
-        <img src="./compact_citation_files/{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title }}" loading="lazy">
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} class="ignore-media">
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            alt="{{ $item.Title }}" loading="lazy">
       </a>
     {{end}}
   </div>
 </div>
-</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
