@@ -4,19 +4,8 @@
   
 
   .image-container {
-    position: relative;
     display: inline-block;
-  }
-  
-  .image-container::before {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value to change the opacity */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Change the values to adjust the shadow */
   }
   
   .image-container img {
