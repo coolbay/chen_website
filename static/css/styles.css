@@ -2,3 +2,24 @@
     font-size: 20px;
   }
   
+
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .image-container::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value to change the opacity */
+  }
+  
+  .image-container img {
+    display: block;
+  }
+  
