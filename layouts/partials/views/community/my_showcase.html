@@ -50,6 +50,7 @@
 {{ end }}
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
+
 <!-- <div class="col-lg-12 mb-5 view-my-showcase">
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
@@ -142,13 +143,15 @@
     {{ end }}
 
   </div>
-  <div class="ml-3">
+
+  <div class="col-12 col-md-6 order-first {{$order}}">
+    {{ $resource := partial "functions/get_featured_image.html" $item }}
     {{ with $resource }}
-    {{ $image := .Resize "540x webp" }}
-    {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-          alt="{{ $item.Title }}" loading="lazy">
-    {{if $do_link}}</a>{{end}}
-  {{end}}
+      {{ $image := .Resize "500x webp" }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} class="ignore-media">
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{end}}
   </div>
 </div>
