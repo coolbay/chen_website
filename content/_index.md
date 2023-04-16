@@ -210,6 +210,7 @@ sections:
     design:
       columns: '1'
       view: community/compact_citation
+      flip_alt_rows: true
   - block: collection
     content:
       title: Recent Publications
