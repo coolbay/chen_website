@@ -209,7 +209,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: community/compact_citation
+      view: showcase
   - block: collection
     content:
       title: Recent Publications
