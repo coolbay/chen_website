@@ -68,7 +68,7 @@
         {{ end }}
       </div>
 
-      <div class="media-body">
+      <div class="media-body", style="font-size: 16px;">
         {{ if $item.Params.publication }}
           {{- $item.Params.publication | markdownify -}}.
         {{ else if $item.Params.publication_short }}
