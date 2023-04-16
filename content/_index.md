@@ -199,7 +199,7 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: portfolio
+  - block: collection
     id: featured
     content:
       title: Featured Publications
