@@ -44,9 +44,8 @@ sections:
   #     text:
   - block: about
     id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      author: admin
+    # Choose a user profile to display (a folder name within `content/authors/`)
+    author: admin
       # Override your bio text from `authors/admin/_index.md`?
   # - block: features
   #   content:
