@@ -7,9 +7,8 @@ authors:
   - admin
   - Siwei Ma 
   - Wen Gao
-publication: IEEE International Conference on Multimedia \& Expo (ICME),
-  Chengdu, China, 2014
-publication_short: ICME'14
+publication: IEEE International Conference on Multimedia \& Expo (ICME), 2014
+publication_short: ICME 2014
 draft: false
 featured: false
 image:
