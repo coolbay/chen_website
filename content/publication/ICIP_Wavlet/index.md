@@ -7,9 +7,8 @@ authors:
   - admin
   - Jian Zhang
   - Siwei Ma and Wen Gao
-publication: IEEE International Conference on Image Processing (ICIP),
-  Melbourne, Australia, 2013
-publication_short: ICIP'13
+publication: IEEE International Conference on Image Processing (ICIP), 2013
+publication_short: ICIP 2013
 draft: false
 featured: false
 image:
