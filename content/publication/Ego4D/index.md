@@ -90,8 +90,8 @@ authors:
 # - Lorenzo Torresani+
 # - Mingfei Yan+
 # - Jitendra Malik
-publication: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022 
-publication_short: CVPR'22
+publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 
+publication_short: CVPR 2022
 abstract: 
 draft: false
 featured: false
