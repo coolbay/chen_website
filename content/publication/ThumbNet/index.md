@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Bernard Ghanem
-publication_short: ACM MM'20
+publication_short: ACM MM 2020
 abstract: Although deep convolutional neural networks (CNNs) have achieved great
   success in computer vision tasks, its real-world application is still impeded
   by its voracious demand of computational resources. Current works mostly seek
@@ -49,7 +49,7 @@ url_source: ""
 url_video: https://www.youtube.com/watch?v=m0Ms0xtSKFI&list=PLC28kDljnOrj-_w-MHKW36gVRvUe3XFjx
 author_notes: []
 doi: ""
-publication: ACM International Conference on Multimedia, Seattle, United State,  2020
+publication: ACM International Conference on Multimedia (ACM MM),  2020
 projects: []
 date: 2020-07-29T00:00:02.020Z
 url_slides: ""
