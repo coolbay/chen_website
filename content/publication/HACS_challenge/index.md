@@ -10,9 +10,8 @@ authors:
   - David S. Rojas
   - Ali Thabet
   - Bernard Ghanem
-publication: CVPR Workshop of HACS Temporal Action Localization Challenge,
-  Seattle, United States, 2020
-publication_short: CVPRW'20
+publication: CVPR Workshop of HACS Temporal Action Localization Challenge, 2020
+publication_short: CVPRW 2020
 draft: false
 featured: false
 url_pdf: http://hacs.csail.mit.edu/challenge/report_cvpr20/HACS_Report_KAUST.pdf 
