@@ -6,7 +6,7 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $columns := $block.design.columns | default "2" }}
-{{ $folder := $block.folder }}
+{{ $folder := $block.content.filter.folder }}
 
 {{ $awards_page_path := (printf "/%s" $folder) }}
 {{ $awards_page := site.GetPage $awards_page_path }}
