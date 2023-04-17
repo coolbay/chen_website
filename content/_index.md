@@ -43,22 +43,16 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please fill in the following form to send me an email.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: chen[dot]zhao[at]kaust[dot]edu[dot]cn
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Office \#3124, Building 13, KAUST
+        city: Thuwal
+        region: Makkah Province
+        postcode: '23955-6900'
+        country: Saudi Arabia
+        country_code: KSA
       contact_links:
         - icon: twitter
           icon_pack: fab
