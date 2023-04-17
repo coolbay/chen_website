@@ -5,15 +5,15 @@
 - [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPR'23 workshop: L3D-IVU !
 - [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPR'23 workshop: CLVision!
 - [2023-02-27] [Re2TAL]({{< relref "../publication/Re2TAL" >}}) and [LF-VSN]({{< relref "../publication/LF-VSN" >}}) were accepted to CVPR'23!
-- [2023-02-20] I gave a spotlight talk in the [Rising Star in AI Symposium] !
+- [2023-02-20] I gave a spotlight talk in the [Rising Star in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2023) !
 
 ### 2022
 
 - [2022-12-02] I was the lecturer in the Artificial Intelligence Bootcamp on behalf of KAUST to Saudi Arabia's smartest undergraduate students!
 - [2022-07-04] [R-DFCIL]({{< relref "../publication/R-DFCIL" >}}) and [EASEE]({{< relref "../publication/EASEE" >}}) were accepted into ECCV'22!
 - [2022-06-21] [Ego4D]({{< relref "../publication/Ego4D" >}}) got into CVPR'22 Best Paper Finalist!
-- [2022-04-18] All Ego4D challenges are live now!
-- [2022-03-29] Ego4D was accepted to CVPR'22 as ORAL presentation!
+- [2022-04-18] All [Ego4D](https://ego4d-data.org) challenges are live now!
+- [2022-03-29] [Ego4D]({{< relref "../publication/Ego4D" >}}) was accepted to CVPR'22 as ORAL presentation!
 - [2022-03-29] [MAD]({{< relref "../publication/MAD" >}}) was accepted to CVPR'22!
 
 ### 2021 
