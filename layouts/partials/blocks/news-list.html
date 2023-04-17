@@ -19,12 +19,12 @@
 <!-- <div class="col-12 col-md-6 text-center text-md-left"> -->
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
-  <!-- {{ with $block.content.title }}
+  {{ with $block.content.title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
-    {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+    {{ if $block.content.title }}<p>{{ $block.content.title | markdownify | emojify }}</p>{{ end }}
   </div>
-  {{ end }} -->
+  {{ end }}
 
   {{ with $news_page.Content }}
   <!-- <div class="col-md-12"> -->
