@@ -15,7 +15,7 @@
   {{ errorf "Could not find an news page at `%s` " $news_page_path }}
 {{end}}
 
-<div style="height: 400px; overflow-y: scroll;">
+<div style="height: 400px; width: 600px; overflow-y: scroll; overflow-x: scroll;">
   <div class="article-style">
     {{ $news_page.Content }}
   </div>
