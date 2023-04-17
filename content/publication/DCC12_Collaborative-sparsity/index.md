@@ -8,8 +8,8 @@ authors:
   - admin
   - Ruiqin Xiong
   - Siwei Ma and Wen Gao
-publication: IEEE Data Compression Conference (DCC), Snowbird, United States, 2012
-publication_short: DCC'12
+publication: IEEE Data Compression Conference (DCC), 2012
+publication_short: DCC 2012
 draft: false
 featured: false
 image:
