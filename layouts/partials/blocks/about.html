@@ -88,7 +88,7 @@
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $block.Params.widget $block.title }}<h1>{{ $block.title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and  $block.title }}<h1>{{ $block.title | markdownify | emojify }}</h1>{{ end }}
 
     <div class="article-style">
       {{ $person_page.Content }}
