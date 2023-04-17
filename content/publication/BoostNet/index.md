@@ -7,8 +7,8 @@ authors:
   - Jian Zhang
   - Ronggang Wang
   - Wen Gao
-publication: IEEE Visual Communications and Image Processing, Taichung, Taiwan, 2018
-publication_short: VCIP'18
+publication: IEEE Visual Communications and Image Processing (VCIP), 2018
+publication_short: VCIP 2018
 draft: false
 featured: false
 image:

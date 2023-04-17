@@ -1,14 +1,13 @@
 ---
-title: "Better and Faster, when ADMM Meets CNN: Compressive-sensed Image
-  Reconstruction"
+title: "Better and Faster, when ADMM Meets CNN: Compressive-sensed Image Reconstruction"
 publication_types:
   - "1"
 authors:
   - admin
   - Ronggang Wang
   - and Wen Gao
-publication: The Pacific-Rim Conference on Multimedia (PCM), Harbin, China, 2017
-publication_short: PCM'17
+publication: The Pacific-Rim Conference on Multimedia (PCM), 2017
+publication_short: PCM 2017
 draft: false
 featured: false
 image:
