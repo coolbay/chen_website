@@ -1,0 +1,22 @@
+{{/* Wowchemy Blocks: News-list */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+{{ $text := $block.content.text | emojify | $page.RenderString }}
+
+
+{{ $news_page_path := (printf "/news" ) }}
+{{ $news_page := site.GetPage $news_page_path }}
+{{ if not $news_page }}
+  {{ errorf "Could not find an news page at `%s` $news_page_path }}
+{{end}}
+
+<div class="article-style">
+  {{ $news_page.Content }}
+</div>
+
+

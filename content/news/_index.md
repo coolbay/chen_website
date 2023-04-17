@@ -1,9 +1,3 @@
----
-widget: blank
-widget_id: blank
-weight: 20
-title: News
----
 
 ### 2023
 

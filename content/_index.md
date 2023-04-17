@@ -110,11 +110,9 @@ sections:
   #     columns: '1'
   #     view: list
 
-  - block: markdown
+  - block: news-list
     id: news
     content:
-      title: News
-      subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       # See Page Builder docs for all section customization options.
