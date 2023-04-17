@@ -43,29 +43,16 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please fill in the following form to send me an email.
+        Please fill in the following form to leave me a message.
       # Contact (add or remove contact options as necessary)
       email: chen[dot]zhao[at]kaust[dot]edu[dot]cn
       address:
-        street: Office \#3124, Building 13, KAUST
+        street: Office No. 3124, Building 13, KAUST
         city: Thuwal
         region: Makkah Province
         postcode: '23955-6900'
         country: Saudi Arabia
         country_code: KSA
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
