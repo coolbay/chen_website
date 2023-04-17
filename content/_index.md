@@ -14,9 +14,7 @@ sections:
     id: news
     content:
       title: News
-      filters:
-        folders:
-          - news
+      folder: news
     design:
       columns: '2'
       view: list
@@ -36,9 +34,7 @@ sections:
     id: awards
     content:
       title: Awards
-      filters:
-        folders:
-          - awards
+      folder: awards
     design:
       columns: '2'
   - block: contact
