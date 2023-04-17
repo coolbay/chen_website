@@ -22,16 +22,11 @@
 </div>
 {{ end }}
 
-
-
+{{ with $news_page.Content }}
 <div style="height: 400px; overflow-y: scroll;">
-  <div class="article-style">
-    {{ $block.content.title }}
-  </div>
-
-  <div class="article-style">
-    {{ $news_page.Content }}
+  <div class="col-md-12">
+    {{ . | emojify | $page.RenderString }}
   </div>
 </div>
-
+{{ end }}
 
