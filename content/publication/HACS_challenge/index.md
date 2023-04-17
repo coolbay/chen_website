@@ -15,6 +15,7 @@ publication: CVPR Workshop of HACS Temporal Action Localization Challenge,
 publication_short: CVPRW'20
 draft: false
 featured: false
+url_pdf: http://hacs.csail.mit.edu/challenge/report_cvpr20/HACS_Report_KAUST.pdf 
 tags:
   - Action detection
   - HACS
