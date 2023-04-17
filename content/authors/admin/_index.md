@@ -41,4 +41,4 @@ highlight_name: true
 title: Chen Zhao
 email: chen.zhao@kaust.edu.sa
 ---
-Chen Zhao is Research Scientist at King Abdullah University of Science and Technology (KAUST), and Leader of the Video Theme in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) with [Prof. Bernard Ghanum](http://www.bernardghanem.com/). She obtained her Ph.D from [Peking University (PKU)](https://english.pku.edu.cn), advised by [Prof. Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=en). Her research interests include computer vision, deep learning, image/video understanding, image/video processing.
+I am currently Research Scientist at King Abdullah University of Science and Technology (KAUST), and Leader of the Video Team in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) with [Prof. Bernard Ghanum](http://www.bernardghanem.com/). I obtained her Ph.D from [Peking University (PKU)](https://english.pku.edu.cn), advised by [Prof. Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=en). My research interests include computer vision, deep learning, image/video understanding, image/video processing.
