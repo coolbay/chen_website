@@ -17,7 +17,6 @@ sections:
       folder: news
     design:
       columns: '2'
-      view: list
   - block: collection
     id: publications
     content:
@@ -27,7 +26,7 @@ sections:
           - publication
         featured_only: false
     design:
-      columns: '2'
+      columns: '1'
       view: community/my_showcase
       flip_alt_rows: true
   - block: awards
