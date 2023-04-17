@@ -9,9 +9,8 @@ authors:
   - admin
   - Siwei Ma 
   - Debin Zhao
-publication: IEEE International Conference on Multimedia \& Expo (ICME),
-  Melbourne, Australia, 2012
-publication_short: ICME'12
+publication: IEEE International Conference on Multimedia \& Expo (ICME), 2012
+publication_short: ICME 2012
 draft: false
 featured: false
 image:
