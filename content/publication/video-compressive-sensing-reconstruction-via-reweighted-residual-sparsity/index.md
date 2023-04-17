@@ -7,8 +7,8 @@ authors:
   - Siwei Ma
   - Jian Zhang
   - Ruiqin Xiong and Wen Gao
-publication: IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2017
-publication_short: T-CSVT
+publication: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
+publication_short: TCSVT
 draft: false
 featured: false
 image:
