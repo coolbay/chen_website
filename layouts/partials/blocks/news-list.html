@@ -24,15 +24,16 @@
     <h1>{{ . | markdownify | emojify }}</h1>
   </div>
   {{ end }} -->
-  {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
-  
-  {{ with $news_page.Content }}
+  <!-- {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }} -->
+  {{ with $block.Content }}{{ . }}{{ end }}
+
+  <!-- {{ with $news_page.Content }}
   <!-- <div class="col-md-12"> -->
     <div style="height: 400px; overflow-y: scroll;">
       {{ . | emojify | $page.RenderString }}
     </div>
   <!-- </div> -->
-  {{ end }}
+  {{ end }} -->
 </div>
 <!-- </div> -->
 <!-- </div> -->
