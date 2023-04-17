@@ -32,7 +32,7 @@ sections:
       columns: '1'
       view: community/my_showcase
       flip_alt_rows: true
-  - block: collection
+  - block: awards
     id: awards
     content:
       title: Awards
