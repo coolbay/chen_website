@@ -1,8 +1,7 @@
 ---
-title: "Improve Baseline for Temporal Action Detection: HACS Challenge 2020
-  Solution of IVUL‑KAUST team"
+title: "Improve Baseline for Temporal Action Detection: HACS Challenge 2020 Solution of IVUL‑KAUST team"
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Mengmeng Xu
   - admin
