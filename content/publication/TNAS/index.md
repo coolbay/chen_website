@@ -32,7 +32,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), 2022
+publication: IEEE Conference on Computer Vision and Pattern Recognition Workshop, 2022
 projects: []
 date: 2022-06-01T00:00:02.020Z
 url_slides: ""
