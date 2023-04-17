@@ -10,7 +10,7 @@ authors:
   - Wen Gao
 publication: IEEE International Conference on Visual Communications and Image
   Processing (VCIP), 2015
-publication_short: VCIP'15
+publication_short: VCIP 2015
 draft: false
 featured: false
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7457804
