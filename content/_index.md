@@ -99,16 +99,13 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '1'
-  - block: markdown
-    id: news
-    content:
-      title: News
-      filters:
-        folders:
-          - news
-    design:
-      columns: '1'
-      view: list
+  # - block: blank
+  #   id: news
+  #   content:
+  #     title: News
+  #     filters:
+  #       folders:
+  #         - news
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
