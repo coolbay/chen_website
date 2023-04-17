@@ -99,13 +99,28 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '1'
-  # - block: blank
+  # - block: news-list
   #   id: news
   #   content:
   #     title: News
   #     filters:
   #       folders:
   #         - news
+  #   design:
+  #     columns: '1'
+  #     view: list
+
+  - block: markdown
+    id: news
+    content:
+      title: News
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
