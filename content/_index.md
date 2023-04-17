@@ -112,6 +112,7 @@ sections:
 
   - block: news-list
     id: news
+    title: News
     folder: news
     content:
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
