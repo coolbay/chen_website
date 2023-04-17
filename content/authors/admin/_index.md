@@ -5,10 +5,12 @@ bio: My research interests include computer vision, deep learning, image/video
   understanding, image/video processing..
 interests:
   - Image/video Understanding
-  - Computer Vision
-  - Deep Learning
+  - Vision-languange Pretraining
   - Efficient Neural Networks
   - Image/video Processing
+  - Compressive Sensing
+  - Computer Vision
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
