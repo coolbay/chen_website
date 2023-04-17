@@ -15,17 +15,23 @@
   {{ errorf "Could not find an news page at `%s` " $news_page_path }}
 {{end}}
 
-{{ if and  $block.title }}<h2>{{ $block.title | markdownify | emojify }}</h2>{{ end }}
+{{ with $block.content.title }}
+<div class="col-md-12 section-heading">
+  <h1>{{ . | markdownify | emojify }}</h1>
+  {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+</div>
+{{ end }}
 
-<div class="col-12 {{if eq $columns '2'}}col-lg-8{{end}}">
-  <div style="height: 400px; overflow-y: scroll;">
-    <div class="article-style">
-      {{ $block.content.title }}
-    </div>
 
-    <div class="article-style">
-      {{ $news_page.Content }}
-    </div>
+
+<div style="height: 400px; overflow-y: scroll;">
+  <div class="article-style">
+    {{ $block.content.title }}
+  </div>
+
+  <div class="article-style">
+    {{ $news_page.Content }}
   </div>
 </div>
+
 
