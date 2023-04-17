@@ -241,7 +241,7 @@ sections:
         folders:
           - awards
     design:
-      columns: '1'
+      columns: '2'
       view: list
   # - block: collection
   #   content:
