@@ -22,7 +22,6 @@
   {{ with $block.content.title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
-    {{ if $block.content.title }}<p>{{ $block.content.title | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
 
