@@ -1,5 +1,5 @@
 
-### 202
+
 
 - 2022 First place, Visual Queries 3D Localization Challenge in Ego4D Workshop at ECCV 
 - 2021 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
