@@ -10,7 +10,7 @@
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
-  {{ $author = $block.Params.author }}
+  {{ $author = $$block.content.author}}
 {{end}}
 
 {{ $person_page_path := (printf "/authors/%s" $author) }}
