@@ -6,7 +6,6 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $columns := $block.design.columns | default "2" }}
-{{ $text := $block.content.text | emojify | $page.RenderString }}
 {{ $folder := $block.folder }}
 
 {{ $news_page_path := (printf "/%s" $folder) }}
@@ -19,7 +18,7 @@
 <!-- <div class="row featurette"> -->
 <!-- <div class="col-12 col-md-6 text-center text-md-left"> -->
 
-<div class="col-12 {{if eq $columns '2'}}col-lg-8{{end}}">
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   <!-- {{ with $block.content.title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
