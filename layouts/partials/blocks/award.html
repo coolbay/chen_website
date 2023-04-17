@@ -1,0 +1,22 @@
+{{/* Wowchemy Blocks: Award */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "2" }}
+{{ $folder := $block.folder }}
+
+{{ $award_page_path := (printf "/%s" $folder) }}
+{{ $award_page := site.GetPage $award_page_path }}
+{{ if not $award_page }}
+  {{ errorf "Could not find an award page at `%s` " $award_page_path }}
+{{end}}
+
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $award_page.Content }}
+    {{ . | emojify | $page.RenderString }}
+  {{ end }}
+</div>
