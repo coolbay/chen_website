@@ -9,7 +9,7 @@ authors:
   - Ruiqin Xiong 
   - Wen Gao
 publication: IEEE International Conference on Visual Communications and Image
-  Processing (VCIP), Singapore, 2015
+  Processing (VCIP), 2015
 publication_short: VCIP'15
 draft: false
 featured: false
