@@ -12,9 +12,9 @@ authors:
   - Sara Rojas Martinez
   - Fabian Caba
   - Bernard Ghanem
-publication: ICCV Workshop of the 3rd YouTube-8M Large-Scale Video
-  Understanding, Seoul, Korea, 2019
+publication: ICCV Workshop of the 3rd YouTube-8M Large-Scale Video Understanding, 2019
 publication_short: ICCVW'19
+url_pdf: https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2019/c_15.pdf
 draft: false
 featured: false
 image:
