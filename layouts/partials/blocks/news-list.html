@@ -16,23 +16,23 @@
 {{end}}
 
 
-<div class="row featurette">
-  <!-- <div class="col-12 col-md-6 text-center text-md-left"> -->
+<!-- <div class="row featurette"> -->
+<div class="col-12 col-md-6 text-center text-md-left">
 
-    {{ with $block.content.title }}
-    <div class="col-md-12 section-heading">
-      <h1>{{ . | markdownify | emojify }}</h1>
-      {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+  {{ with $block.content.title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $news_page.Content }}
+  <div class="col-md-12">
+    <div style="height: 400px; overflow-y: scroll;">
+      {{ . | emojify | $page.RenderString }}
     </div>
-    {{ end }}
+  </div>
+  {{ end }}
 
-    {{ with $news_page.Content }}
-    <div class="col-md-12">
-      <div style="height: 400px; overflow-y: scroll;">
-        {{ . | emojify | $page.RenderString }}
-      </div>
-    </div>
-    {{ end }}
-
-  <!-- </div> -->
 </div>
+<!-- </div> -->
