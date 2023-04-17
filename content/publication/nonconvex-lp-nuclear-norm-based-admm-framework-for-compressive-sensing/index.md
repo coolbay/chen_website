@@ -6,8 +6,8 @@ authors:
   - admin
   - Jian Zhang
   - Siwei Ma and Wen Gao
-publication: Data Compression Conference (DCC), Snowbird, United States, 2016
-publication_short: DCC'16
+publication: Data Compression Conference (DCC), 2016
+publication_short: DCC 2016
 draft: false
 featured: false
 image:
