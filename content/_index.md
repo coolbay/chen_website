@@ -242,7 +242,6 @@ sections:
           - awards
     design:
       columns: '2'
-      view: list
   # - block: collection
   #   content:
   #     title: All Publications

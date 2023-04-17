@@ -1,15 +1,11 @@
 
 ### 2023
 
-[2023-04-07] [ETAD]({{< relref "../publication/ETAD" >}}) was accepted to CVPR'23 workshop: ECV!
-
-[2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPR'23 workshop: L3D-IVU !
-
-[2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPR'23 workshop: CLVision!
-
-[2023-02-27] [Re2TAL]({{< relref "../publication/Re2TAL" >}}) and LF-VSN were accepted to CVPR'23!
-
-[2023-02-20] I gave a spotlight talk in the Rising Star in AI Symposium!
+- [2023-04-07] [ETAD]({{< relref "../publication/ETAD" >}}) was accepted to CVPR'23 workshop: ECV!
+- [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPR'23 workshop: L3D-IVU !
+- [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPR'23 workshop: CLVision!
+- [2023-02-27] [Re2TAL]({{< relref "../publication/Re2TAL" >}}) and LF-VSN were accepted to CVPR'23!
+- [2023-02-20] I gave a spotlight talk in the Rising Star in AI Symposium!
 
 ### 2022
 
