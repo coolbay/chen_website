@@ -15,10 +15,15 @@
   {{ errorf "Could not find an news page at `%s` " $news_page_path }}
 {{end}}
 
-<div style="height: 400px; width: 600px; overflow-y: scroll; overflow-x: scroll;">
-  <div class="article-style">
-    {{ $news_page.Content }}
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}"></div>
+  <div style="height: 400px; width: 600px; overflow-y: scroll; overflow-x: scroll;">
+    <div class="article-style">
+      {{ $block.content.title }}
+    </div>
+
+    <div class="article-style">
+      {{ $news_page.Content }}
+    </div>
   </div>
 </div>
-
 
