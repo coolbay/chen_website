@@ -59,6 +59,14 @@
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
 
+      <div class="media-body", style="font-size: 16px; font-style: italic;">
+        {{ if $item.Params.publication }}
+          {{- $item.Params.publication | markdownify -}}.
+        {{ else if $item.Params.publication_short }}
+          {{- $item.Params.publication_short | markdownify -}}.
+        {{ end }}
+      </div>
+      
       <div class="stream-meta article-metadata">
         {{ if and $show_authors_only $item.Params.authors }}
         <div>
@@ -69,13 +77,7 @@
         {{ end }}
       </div>
 
-      <div class="media-body", style="font-size: 16px; font-style: italic;">
-        {{ if $item.Params.publication }}
-          {{- $item.Params.publication | markdownify -}}.
-        {{ else if $item.Params.publication_short }}
-          {{- $item.Params.publication_short | markdownify -}}.
-        {{ end }}
-      </div>
+
 
       {{ with $summary }}
       <div class="article-style", style="font-size: 18px;">
