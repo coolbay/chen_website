@@ -25,7 +25,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: featured.png
 url_dataset: ""
 url_project: ""
 url_source: ""
