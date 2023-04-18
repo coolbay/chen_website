@@ -20,7 +20,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Featured Publications   
+      title: Publications   
       count: 8
       filters:
         folders:
