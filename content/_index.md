@@ -18,17 +18,28 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: publications
+    id: featured_publications
     content:
-      title: Publications   
+      title: Featured Publications   
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: community/my_showcase
+      flip_alt_rows: true
+  - block: collection
+    id: all_publications
+    content:
+      title: All Publications   
       filters:
         folders:
           - publication
         featured_only: false
     design:
       columns: '2'
-      view: community/my_showcase
-      flip_alt_rows: true
+      view: community/comopact_citation
   - block: awards
     id: awards
     content:
