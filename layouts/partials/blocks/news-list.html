@@ -26,16 +26,12 @@
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
   {{end}}
+
+  <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+    {{ with $news_page.Content }}
+      <div style="height: 400px; overflow-y: scroll; margin-top: -1.5rem;">
+        {{ . | emojify | $page.RenderString }}
+      </div>
+    {{ end }}
+  </div>
 </div>
-
-<div class="col-12 {{if eq $columns '2'}}col-lg-8{{end}}">
-  {{ with $news_page.Content }}
-    <div style="height: 400px; overflow-y: scroll;">
-      {{ . | emojify | $page.RenderString }}
-    </div>
-  {{ end }}
-
-</div>
-
-
-

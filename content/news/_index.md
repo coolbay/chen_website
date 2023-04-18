@@ -1,3 +1,6 @@
+---
+title: News
+---
 
 ### 2023
 
@@ -16,12 +19,12 @@
 - [2022-03-29] [Ego4D]({{< relref "../publication/Ego4D" >}}) was accepted to CVPR'22 as ORAL presentation!
 - [2022-03-29] [MAD]({{< relref "../publication/MAD" >}}) was accepted to CVPR'22!
 
-### 2021 
+### 2021
 - [2021-10-15] [Ego4D]({{< relref "../publication/Ego4D" >}}) was released and paper on arxiv!
 - [2021-07-23] [VSGN]({{< relref "../publication/VSGN" >}}) was accepted to ICCV'21!
 - [2021-05-20] I was recognized by CVPR’21 as Outstanding Reviewer!
 
-### 2020 
+### 2020
 - [2020-07-29] [ThumbNet]({{< relref "../publication/ThumbNet" >}}) was accepted to ACM MM'20!
 - [2020-06-07] We won the 2‑nd place in the HACS’20 Weakly‑supervised action detection Challenge!
 - [2020-02-27] [G-TAD]({{< relref "../publication/G-TAD" >}}) was accepted to CVPR'20!
