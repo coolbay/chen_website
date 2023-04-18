@@ -16,7 +16,7 @@ sections:
       title: News
       folder: news
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: publications
     content:
