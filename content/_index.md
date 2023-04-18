@@ -17,7 +17,7 @@ sections:
       folder: news
     design:
       columns: '2'
-  - block: my_collection
+  - block: collection
     id: publications
     content:
       title: Featured Publications   
