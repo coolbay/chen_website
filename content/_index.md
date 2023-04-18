@@ -33,7 +33,7 @@ sections:
   - block: awards
     id: awards
     content:
-      title: Awards
+      title: Selected Awards
       folder: awards
     design:
       columns: '2'
