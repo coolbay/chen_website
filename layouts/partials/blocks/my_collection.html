@@ -85,7 +85,7 @@
   {{end}}
 
   {{/* Archive link */}}
-  {{ $show_archive_link := $block.content.archive.enable}}
+  {{ $show_archive_link := $block.content.archive.enable | default }}
   {{ if $show_archive_link | and $archive_page }}
 
     {{ $archive_link := "" }}
