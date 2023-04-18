@@ -7,7 +7,7 @@ authors:
   - Bernard Ghanem
   - Jian Zhang
 publication: European Conference on Computer Vision (ECCV), 2022
-publication_short: ECCV'22
+publication_short: ECCV 2022
 draft: false
 url_pdf: https://arxiv.org/pdf/2203.13104.pdf
 title: "R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning"
