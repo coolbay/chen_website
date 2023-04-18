@@ -30,7 +30,7 @@ draft: false
 url_pdf: https://arxiv.org/pdf/2011.14598.pdf
 url_code: https://github.com/coolbay/VSGN
 url_video: https://www.youtube.com/watch?v=yDsts2gHOEQ
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart

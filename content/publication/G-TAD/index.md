@@ -33,7 +33,7 @@ url_pdf: https://arxiv.org/pdf/1911.11462.pdf
 url_project: https://www.deepgcns.org/app/g-tad
 url_video: https://www.youtube.com/watch?v=BlPxnDcykUo
 title: "G‑TAD: Sub‑Graph Localization for Temporal Action Detection"
-featured: false
+featured: true
 date: 2020-02-27T18:27:40.971Z
 url_slides: https://www.slideshare.net/MengmengXu3/gtad-subgraph-localization-for-temporal-action-detection
 image:

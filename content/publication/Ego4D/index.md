@@ -94,7 +94,7 @@ publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 
 publication_short: CVPR 2022
 abstract: 
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
