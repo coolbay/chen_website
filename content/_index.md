@@ -44,7 +44,7 @@ sections:
       text: |-
         Please fill in the following form to leave me a message.
       # Contact (add or remove contact options as necessary)
-      email: chen[dot]zhao[at]kaust[dot]edu[dot]cn
+      email: chen[dot]zhao[at]kaust[dot]edu[dot]sa
       address:
         street: Office No. 3124, Building 13, KAUST
         city: Thuwal
