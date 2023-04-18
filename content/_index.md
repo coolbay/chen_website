@@ -16,7 +16,7 @@ sections:
       title: News
       folder: news
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: publications
     content:
@@ -26,7 +26,7 @@ sections:
           - publication
         featured_only: false
     design:
-      columns: '1'
+      columns: '2'
       view: community/my_showcase
       flip_alt_rows: true
   - block: awards
