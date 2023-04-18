@@ -18,9 +18,10 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured_publications
+    id: publications
     content:
-      title: Featured Publications   
+      title: Publications   
+      count: 8
       filters:
         folders:
           - publication
