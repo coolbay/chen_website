@@ -21,7 +21,7 @@ sections:
     id: publications
     content:
       title: Featured Publications   
-      count: 8
+      # count: 8
       filters:
         folders:
           - publication
