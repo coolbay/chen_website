@@ -30,7 +30,7 @@ image:
   filename: featured.png
 url_dataset: ""
 url_project: ""
-url_source: https://github.com/MC-E/LF-VSN
+url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
@@ -39,5 +39,5 @@ date: 2023-06-10T00:00:02.020Z
 url_slides: ""
 publishDate: 2023
 url_poster: ""
-url_code: ""
+url_code: https://github.com/MC-E/LF-VSN
 ---
