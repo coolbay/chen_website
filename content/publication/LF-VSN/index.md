@@ -22,7 +22,7 @@ tags:
   - Video steganography
   - Reversible networks
 slides: ""
-url_pdf: ""
+url_pdf: https://arxiv.org/pdf/2304.12300.pdf
 image:
   caption: ""
   focal_point: ""
@@ -30,7 +30,7 @@ image:
   filename: featured.png
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: https://github.com/MC-E/LF-VSN
 url_video: ""
 author_notes: []
 doi: ""
