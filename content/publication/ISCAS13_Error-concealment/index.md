@@ -5,9 +5,10 @@ publication_types:
 authors:
   - admin
   - Siwei Ma
-  - Jian Zhang and Wen Gao
-publication: IEEE International Symposium of Circuits and Systems (ISCAS), 2013
-publication_short: ISCAS 2013
+  - Jian Zhang 
+  - Wen Gao
+publication: IEEE International Symposium of Circuits and Systems (ISCAS), 2013. **<span style="color:red">[Oral]</span>**
+publication_short: ISCAS 2013. **<span style="color:red">[Oral]</span>**
 draft: false
 featured: false
 image:
