@@ -1,5 +1,5 @@
 ---
-title: Around the World in 3,000 Hours of Egocentric Video  **[Best Paper Nominee]**
+title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video  **[Best Paper Nominee]**"
 
 publication_types:
   - "1"
