@@ -16,7 +16,7 @@ Although several attempts have been made, most of them are limited to low-capaci
 significant improvement of the video steganography performance, our proposed LF-VSN has high security, large hiding capacity, and flexibility."
 
 draft: false
-featured: true
+featured: false
 tags:
   - Deep learning
   - Video steganography
