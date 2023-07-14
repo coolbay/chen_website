@@ -6,8 +6,8 @@ authors:
   - admin
   - Ronggang Wang
   - and Wen Gao
-publication: The Pacific-Rim Conference on Multimedia (PCM), 2017
-publication_short: PCM 2017
+publication: The Pacific-Rim Conference on Multimedia (PCM), 2017. **<span style="color:red">[Oral]</span>**
+publication_short: PCM 2017. **<span style="color:red">[Oral]</span>**
 draft: false
 featured: false
 image:
