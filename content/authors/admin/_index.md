@@ -2,15 +2,14 @@
 role: Research Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include computer vision, deep learning, image/video
-  understanding, image/video processing..
+  understanding, image/video processing, image/video generation.
 interests:
   - Image/video Understanding
-  - Vision-languange Pretraining
+  - Vision-languange learning
   - Efficient Neural Networks
   - Image/video Processing
-  - Compressive Sensing
-  - Computer Vision
-  - Deep Learning
+  - Image/ video continual learning
+  - Image/video generation
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,4 +42,4 @@ highlight_name: true
 title: Chen Zhao
 email: chen.zhao@kaust.edu.sa
 ---
-I am currently Research Scientist at King Abdullah University of Science and Technology (KAUST), and Leader of the Video Team in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) with [Prof. Bernard Ghanum](http://www.bernardghanem.com/). I obtained her Ph.D from [Peking University (PKU)](https://english.pku.edu.cn), advised by [Prof. Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=en). My research interests include computer vision, deep learning, image/video understanding, image/video processing.
+I am currently a Research Scientist at King Abdullah University of Science and Technology (KAUST), and Lead of the Video Group in [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) with [Prof. Bernard Ghanum](http://www.bernardghanem.com/). I obtained my Ph.D from [Peking University (PKU)](https://english.pku.edu.cn), advised by [Prof. Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=en). My research interests include image/video understanding, image/video processing, image/video continual learning, image/video generation, etc..
