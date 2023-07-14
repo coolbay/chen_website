@@ -1,5 +1,5 @@
 ---
-title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video, {{ \"<span style=\"color: red;\">Best Paper Nominee</span>\" | safeHTML }} "
+title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video, {{ \"<span style=\"color: red;\">Best Paper Nominee</span>\" | safeMarkdownify  }} "
 publication_types:
   - "1"
 authors:
