@@ -4,6 +4,7 @@ title: News
 
 ### 2023
 
+- [2023-07-14] All three papers (LAE, FreeDoM, EgoLoc) submitted to ICCV'23 were accepted!
 - [2023-04-07] [ETAD]({{< relref "../publication/ETAD" >}}) was accepted to CVPR'23 workshop: ECV!
 - [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPR'23 workshop: L3D-IVU !
 - [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPR'23 workshop: CLVision!
