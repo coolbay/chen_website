@@ -3,12 +3,12 @@ title: "A Unified Continual Learning Framework with General Parameter-Efficient 
 publication_types:
   - "1"
 authors:
-  - Qiankun Gao, 
-  - admin, 
-  - Yifan Sun, 
-  - Teng Xi, 
-  - Gang Zhang, 
-  - Bernard Ghanem, 
+  - Qiankun Gao 
+  - admin 
+  - Yifan Sun
+  - Teng Xi 
+  - Gang Zhang 
+  - Bernard Ghanem 
   - Jian Zhang
 
 
