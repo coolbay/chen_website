@@ -7,8 +7,8 @@ authors:
   - Siwei Ma 
   - Wen Gao
 publication: IEEE International Conference on Visual Communications and Image
-  Processing (VCIP),  2014
-publication_short: VCIP 2014
+  Processing (VCIP),  2014. **<span style="color:red">[Oral]</span>**
+publication_short: VCIP 2014. **<span style="color:red">[Oral]</span>**
 draft: false
 featured: false
 image:
