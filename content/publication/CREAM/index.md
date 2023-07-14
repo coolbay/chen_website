@@ -8,7 +8,7 @@ authors:
   - Jian Zhang
   - Ronggang Wang
   - Wen Gao
-publication: IEEE Access 2018
+publication: IEEE Access, 2018
 publication_short: IEEE Access
 draft: false
 featured: false
