@@ -14,7 +14,7 @@ abstract: "Class-incremental learning is one of the most important settings for 
 data contains a large number of frames, which places a higher burden on the replay memory. The current common practice is to sub-sample frames from the video stream and store them in the replay memory. In this paper, we propose SMILE a novel replay mechanism for effective video continual learning based on individual/single frames. Through extensive experimentation, we show that under strong memory constraints, video diversity plays a more significant role than temporal information. Therefore, our method focuses on learning from a small number of frames that represent a large number of unique videos. On three representative video datasets, Kinetics, UCF101, and ActivityNet, the proposed method achieves state-of-the-art performance, outperforming the previous state-of-the-art by up to 15.7%."
 
 draft: false
-featured: false
+featured: true
 tags:
   - Deep learning
   - Continual learning
