@@ -102,6 +102,6 @@ image:
   preview_only: false
 url_pdf: https://arxiv.org/pdf/2110.07058.pdf
 url_project: https://ego4d-data.org 
-date: 2022-02-02T18:48:41.905Z
-publishdate: 2022-02-02T18:48:41.905Z
+date: 2023-07-20T00:00:02.020Z
+publishdate: 2023-07-20T00:00:02.020Z
 ---
