@@ -5,11 +5,11 @@ title: News
 ### 2023
 
 - [2023-07-14] All three papers ([LAE]({{< relref "../publication/LAE" >}}), [FreeDoM]({{< relref "../publication/FreeDoM" >}}), [EgoLoc]({{< relref "../publication/EgoLoc" >}})) submitted to ICCV'23 were accepted!
-- [2023-06-22] [SMILE]({{< relref "../publication/SMILE" >}}) won the Best Paper Award in CVPR'23 workshop: CLVision!
+- [2023-06-22] [SMILE]({{< relref "../publication/SMILE" >}}) won the Best Paper Award in CVPRW'23 CLVision!
 - [2023-06-22] We won the first place in CVPR'23 Ego4D VQ3D Challenge!
-- [2023-04-07] [ETAD]({{< relref "../publication/ETAD" >}}) was accepted to CVPR'23 workshop: ECV!
-- [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPR'23 workshop: L3D-IVU !
-- [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPR'23 workshop: CLVision!
+- [2023-04-07] [ETAD]({{< relref "../publication/ETAD" >}}) was accepted to CVPRW'23 ECV!
+- [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPRW'23 L3D-IVU !
+- [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPRW'23 CLVision!
 - [2023-02-27] [Re2TAL]({{< relref "../publication/Re2TAL" >}}) and [LF-VSN]({{< relref "../publication/LF-VSN" >}}) were accepted to CVPR'23!
 - [2023-02-20] I gave a spotlight talk in the [Rising Star in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2023) !
 
