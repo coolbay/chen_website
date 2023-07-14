@@ -10,8 +10,8 @@ authors:
   - 张新峰
   - 张健
   - 高文
-publication: 计算机学报, 2016. **<span style="color:red">[Best Paper Award in NCMT]</span>**
-publication_short: 计算机学报. **<span style="color:red">[Best Paper Award in NCMT]</span>**
+publication: 计算机学报, 2016. **<span style="color:red">[Recommended from NCMT, Best Paper Award in NCMT]</span>**
+publication_short: 计算机学报. **<span style="color:red">[Recommended from NCMT, Best Paper Award in NCMT]</span>**
 featured: false
 image:
   filename: featured
