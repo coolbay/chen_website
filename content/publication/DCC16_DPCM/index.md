@@ -6,8 +6,8 @@ authors:
   - admin
   - Jian Zhang
   - Siwei Ma and Wen Gao
-publication: Data Compression Conference (DCC), 2016
-publication_short: DCC 2016
+publication: Data Compression Conference (DCC), 2016. **<span style="color:red">[Oral (acceptance rate < 10%)]</span>**
+publication_short: DCC 2016. **<span style="color:red">[Oral (acceptance rate < 10%)]</span>**
 draft: false
 featured: false
 image:
