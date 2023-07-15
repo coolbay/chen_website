@@ -27,7 +27,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: community/my_showcase
       flip_alt_rows: true
   - block: awards
