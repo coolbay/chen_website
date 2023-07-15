@@ -60,10 +60,10 @@
       </div>
 
       <div class="media-body", style="font-size: 16px; font-style: italic;">
-        {{ if $item.Params.publication }}
-          {{- $item.Params.publication | markdownify -}}.
-        {{ else if $item.Params.publication_short }}
+        {{ if $item.Params.publication_short }}
           {{- $item.Params.publication_short | markdownify -}}.
+        {{ else if $item.Params.publication }}
+          {{- $item.Params.publication | markdownify -}}.
         {{ end }}
       </div>
       
