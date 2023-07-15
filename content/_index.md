@@ -21,13 +21,13 @@ sections:
     id: publications
     content:
       title: Publications   
-      count: 8
+      count: 10
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: community/my_showcase
       flip_alt_rows: true
   - block: awards
