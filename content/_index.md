@@ -21,7 +21,7 @@ sections:
     id: publications
     content:
       title: Publications   
-      count: 10
+      count: 8
       filters:
         folders:
           - publication
