@@ -10,7 +10,7 @@ authors:
   - Xiaopeng Fan
   - Yongbing Zhang
   - Wen Gao
-publication: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
+publication: IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2017
 publication_short: TCSVT
 draft: false
 featured: false

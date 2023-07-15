@@ -7,7 +7,7 @@ authors:
   - admin
   - Ruiqin Xiong
   - Siwei Ma and Debin Zhao
-publication: IEEE International Symposium of Circuits and Systems (ISCAS),  2012
+publication: IEEE International Symposium of Circuits and Systems (**ISCAS**),  2012
 publication_short: ISCAS'12
 draft: false
 featured: false

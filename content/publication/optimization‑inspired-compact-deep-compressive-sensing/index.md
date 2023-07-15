@@ -6,7 +6,7 @@ authors:
   - Jian Zhang
   - admin
   - Wen Gao
-publication: IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2020
+publication: IEEE Journal of Selected Topics in Signal Processing (**JSTSP**), 2020
 publication_short: JSTSP
 draft: false
 featured: false

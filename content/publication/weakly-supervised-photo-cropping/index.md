@@ -9,7 +9,7 @@ authors:
   - Qi Zhao
   - admin
   - Nicu Sebe
-publication: IEEE Transactions on Multimedia (TMM), 2014
+publication: IEEE Transactions on Multimedia (**TMM**), 2014
 publication_short: TMM
 draft: false
 featured: false

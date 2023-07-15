@@ -6,7 +6,7 @@ authors:
   - admin
   - Siwei Ma 
   - Wen Gao
-publication: "IEEE 17th International Workshop on Multimedia Signal Processing (MMSP) 2015 "
+publication: "IEEE 17th International Workshop on Multimedia Signal Processing (**MMSP**) 2015 "
 publication_short: MMSP'15
 draft: false
 featured: false

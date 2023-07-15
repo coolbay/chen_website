@@ -9,7 +9,7 @@ authors:
   - Yongbing Zhang
   - Siwei Ma
   - Wen Gao
-publication: IEEE Transactions on Image Processing (TIP), 2016
+publication: IEEE Transactions on Image Processing (**TIP**), 2016
 publication_short: TIP
 draft: false
 featured: false

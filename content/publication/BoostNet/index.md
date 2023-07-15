@@ -7,7 +7,7 @@ authors:
   - Jian Zhang
   - Ronggang Wang
   - Wen Gao
-publication: IEEE Visual Communications and Image Processing (VCIP), 2018. **<span style="color:red">[Oral]</span>**
+publication: IEEE Visual Communications and Image Processing (**VCIP**), 2018. **<span style="color:red">[Oral]</span>**
 publication_short: VCIP 2018. **<span style="color:red">[Oral]</span>**
 draft: false
 featured: false

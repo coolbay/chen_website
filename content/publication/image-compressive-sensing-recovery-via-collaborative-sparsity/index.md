@@ -10,7 +10,7 @@ authors:
   - Siwei Ma 
   - Wen Gao
 publication: IEEE Journal on Emerging and Selected Topics in Circuits and
-  Systems (JETCAS), 2012
+  Systems (**JETCAS**), 2012
 publication_short: JETCAS
 draft: false
 featured: false

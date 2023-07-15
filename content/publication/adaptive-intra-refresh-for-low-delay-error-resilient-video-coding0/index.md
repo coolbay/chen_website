@@ -1,5 +1,5 @@
 ---
-title: Adaptive intra-refresh for low-delay error-resilient video coding0
+title: Adaptive intra-refresh for low-delay error-resilient video coding
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Ming-Ting Sun
   - Aaron Drake
 publication: "Asia-Pacific Signal and Information Processing Association Annual
-  Summit and Conference (APSIPA), 2014 "
+  Summit and Conference (**APSIPA**), 2014 "
 publication_short: APSIPA'14
 draft: false
 featured: false

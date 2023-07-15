@@ -7,7 +7,7 @@ authors:
   - Siwei Ma
   - Jian Zhang 
   - Wen Gao
-publication: IEEE International Symposium of Circuits and Systems (ISCAS), 2013. **<span style="color:red">[Oral]</span>**
+publication: IEEE International Symposium of Circuits and Systems (**ISCAS**), 2013. **<span style="color:red">[Oral]</span>**
 publication_short: ISCAS 2013. **<span style="color:red">[Oral]</span>**
 draft: false
 featured: false

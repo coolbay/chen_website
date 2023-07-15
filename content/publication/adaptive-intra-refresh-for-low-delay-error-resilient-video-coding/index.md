@@ -6,7 +6,7 @@ authors:
   - Haoming Chen
   - admin
   - Ming-Ting Sun and Aaron Drake
-publication: Journal of Visual Communication and Image Representation (JVCIR),  2015
+publication: Journal of Visual Communication and Image Representation (**JVCIR**),  2015
 publication_short: JVCIR
 draft: false
 featured: false

@@ -8,7 +8,7 @@ authors:
   - admin
   - Debin Zhao 
   - Wen Gao
-publication: Signal Processing (SP), 2014
+publication: Signal Processing (**SP**), 2014
 publication_short: SP
 draft: false
 featured: false
