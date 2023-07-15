@@ -6,7 +6,7 @@ authors:
   - admin
   - Ali Thabet
   - Bernard Ghanem
-publication: IEEE International Conference on Computer Vision (ICCV), 2021
+publication: IEEE International Conference on Computer Vision (**ICCV**), 2021
 publication_short: ICCV 2021
 abstract: "Temporal action localization (TAL) in videos is a challenging task,
   especially due to the large variation in action temporal scales. Short actions

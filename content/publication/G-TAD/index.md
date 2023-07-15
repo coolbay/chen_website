@@ -7,8 +7,7 @@ authors:
   - David Rojas Blanco
   - Ali Thabet
   - Bernard Ghanem
-publication: IEEE Conference on Computer Vision and Pattern Recognition,
-  Seattle, United State, 2020
+publication: IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020
 publication_short: CVPR'20
 abstract: "Temporal action detection is a fundamental yet challenging task in
   video understanding. Video context is a critical cue to effectively detect

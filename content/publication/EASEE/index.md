@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: European Conference on Computer Vision (ECCV), 2022
+publication: European Conference on Computer Vision (**ECCV**), 2022
 projects: []
 date: 2022-07-01T00:00:02.020Z
 url_slides: ""
