@@ -8,8 +8,8 @@ interests:
   - Vision-languange learning
   - Efficient neural networks
   - Image/video processing
+  - Image/video compression
   - Image/video continual learning
-  - Image/video generation
 social:
   - icon: envelope
     icon_pack: fas
