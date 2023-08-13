@@ -4,6 +4,7 @@ title: News
 
 ### 2023
 
+- [2023-08-08] [EgoLoc]({{< relref "../publication/EgoLoc" >}})) is selected as an ORAL in ICCV'23!
 - [2023-08-07] Ego4D（extended from our CVPR'22 paper）was accepted to TPAMI!
 - [2023-07-14] All three papers ([LAE]({{< relref "../publication/LAE" >}}), [FreeDoM]({{< relref "../publication/FreeDoM" >}}), [EgoLoc]({{< relref "../publication/EgoLoc" >}})) submitted to ICCV'23 were accepted!
 - [2023-06-22] [SMILE]({{< relref "../publication/SMILE" >}}) won the Best Paper Award in CVPRW'23 CLVision!
