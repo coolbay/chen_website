@@ -25,7 +25,7 @@ image:
 url_dataset: ""
 url_project: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/9fxo1ebxafs?si=5JOZ4_0-wMezqFPQ"
 author_notes: []
 doi: ""
 publication: European Conference on Computer Vision Workshop (**ECCVW**), 2022
