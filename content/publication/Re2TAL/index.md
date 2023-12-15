@@ -27,7 +27,7 @@ image:
 url_dataset: ""
 url_project: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/Oa29cFo_nMY?si=VicloX8R6ytGqAgL"
 author_notes: []
 doi: ""
 projects: []
