@@ -1,5 +1,5 @@
 ---
-title: "ETAD: A Unified Framework for Efficient Temporal Action Detection"
+title: "ETAD: Training Action Detection End to End on a Laptop"
 publication_types:
   - "1"
 authors:
