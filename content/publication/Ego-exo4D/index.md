@@ -1,5 +1,5 @@
 ---
-title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video"
+title: "Ego-exo4D: Around the World in 3,000 Hours of Egocentric Video"
 
 publication_types:
   - "1"
