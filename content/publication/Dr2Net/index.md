@@ -36,7 +36,7 @@ url_video: ""
 author_notes: []
 doi: ""
 projects: []
-date: 2024-01-4T00:00:02.020Z
+date: 2024-01-04T00:00:02.020Z
 url_slides: ""
 publishDate: 2024
 url_poster: ""
