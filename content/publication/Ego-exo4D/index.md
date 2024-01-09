@@ -103,5 +103,5 @@ image:
 url_pdf: https://arxiv.org/pdf/2311.18259.pdf
 url_project: http://ego-exo4d-data.org
 date: 2023-12-02T18:48:41.905Z
-publishdate: 2023-12-02T18:48:41.905Z
+publishdate: 2023
 ---
