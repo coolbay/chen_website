@@ -32,7 +32,7 @@ education:
     - course: Research Intern
       institution: National Institute of Informatics (NII), Tokyo, Japan
       year: 2016
-    - course: CSC Joint Ph.D. student
+    - course: Joint Ph.D. student
       institution: University of Washington (UW), Seattle, USA
       year: 2012
     - course: B.Eng. in Software Engineering
