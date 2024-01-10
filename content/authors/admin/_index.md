@@ -28,7 +28,6 @@ education:
     - course: Ph.D. in Computer Science
       institution: Peking University (PKU), Beijing, China
       year: 2016
-      icon: envelope
     - course: Research Intern
       institution: National Institute of Informatics (NII), Tokyo, Japan
       year: 2016
