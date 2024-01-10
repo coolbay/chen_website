@@ -101,7 +101,7 @@ image:
   focal_point: Smart
   preview_only: false
 url_pdf: https://arxiv.org/pdf/2311.18259.pdf
-url_project: https://ego4d-data.org 
-date: 2022-02-02T18:48:41.905Z
-publishdate: 2022-02-02T18:48:41.905Z
+url_project: http://ego-exo4d-data.org
+date: 2023-12-02T18:48:41.905Z
+publishdate: 2023-12-02T18:48:41.905Z
 ---
