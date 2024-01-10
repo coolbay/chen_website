@@ -1,5 +1,5 @@
 ---
-title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video"
+title: "Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives"
 
 publication_types:
   - "1"
