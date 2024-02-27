@@ -2,6 +2,12 @@
 title: News
 ---
 
+
+### 2024
+
+- [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), TGT, and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
+
+
 ### 2023
 
 - [2023-08-08] [EgoLoc]({{< relref "../publication/EgoLoc" >}}) is selected as an ORAL in ICCV'23!
