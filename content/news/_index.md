@@ -5,9 +5,10 @@ title: News
 
 ### 2024
 - [2024-06-18] I gave a talk  on "Towards More Realistic Continual Learning at Scale" as an invited speaker in the [CLVision Workshop in CVPR 2024]("https://sites.google.com/view/clvision2024"). 
-- [2024-06-17] We have won the FIRST place in 4 challenges in CVPR 2024: Epic-kitchens audio-based interaction detection, Epic-kitchens action detection, Epic-kitchens action recognition, Ego4D Visual Queries 3D!
+- [2024-06-17] We have won the first place in 4 challenges in CVPR 2024: Epic-kitchens audio-based interaction detection, Epic-kitchens action detection, Epic-kitchens action recognition, Ego4D Visual Queries 3D!
 - [2024-03-28] We released [OpenTAD]("https://github.com/sming256/OpenTAD"), an open-source toolbox for temporal action detection (TAD), comprising 14 methods with 8 datasets.
 - [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), [TGT]({{< relref "../publication/TGT" >}}), and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
+- [2024-02-19] I gave a spotlight talk in the [Rising Star in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024) !
 
 
 ### 2023
