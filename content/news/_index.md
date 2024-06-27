@@ -5,7 +5,7 @@ title: News
 
 ### 2024
 
-- [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), TGT, and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
+- [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), [TGT]({{< relref "../publication/TGT" >}}), and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
 
 
 ### 2023
