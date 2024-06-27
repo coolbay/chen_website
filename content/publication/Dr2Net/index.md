@@ -31,8 +31,8 @@ image:
   filename: featured.png
 url_dataset: ""
 url_project: ""
-url_source: ""
-url_video: ""
+url_source: "https://github.com/ coolbay/Dr2Net"
+url_video: "https://www.youtube.com/watch?v=kjagZDwgUFw"
 author_notes: []
 doi: ""
 projects: []
