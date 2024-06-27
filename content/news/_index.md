@@ -4,7 +4,7 @@ title: News
 
 
 ### 2024
-
+- [2024-06-18] I gave a talk  on "Towards More Realistic Continual Learning at Scale" as an invited speaker in the [CLVision Workshop in CVPR 2024]({{< relref "https://sites.google.com/view/clvision2024" >}}). 
 - [2024-03-28] We released [OpenTAD]({{< relref "https://github.com/sming256/OpenTAD" >}}), an open-source toolbox for temporal action detection (TAD), comprising 14 methods with 8 datasets.
 - [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), [TGT]({{< relref "../publication/TGT" >}}), and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
 
