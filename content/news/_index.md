@@ -35,6 +35,7 @@ title: News
 - [2022-03-29] [MAD]({{< relref "../publication/MAD" >}}) was accepted to CVPR'22!
 
 ### 2021
+- [2021-11-30] I gave a talk virtually in the computer vision group of University of Bristol on "Detecting Actions in Videos via Graph Convolutional Networks". 
 - [2021-10-15] [Ego4D]({{< relref "../publication/Ego4D" >}}) was released and paper on arxiv!
 - [2021-07-23] [VSGN]({{< relref "../publication/VSGN" >}}) was accepted to ICCV'21!
 - [2021-05-20] I was recognized by CVPR’21 as Outstanding Reviewer!
