@@ -1,10 +1,13 @@
 ---
 title: Awards
 ---
-
+- 2024 First place, Ego4D Visual Queries 3D at CVPR 2024
+- 2024 First place, Epic-kitchens audio-based interaction detection at CVPR 2024
+- 2024 First place, Epic-kitchens action detection at CVPR 2024
+- 2024 First place, Epic-kitchens action recognition at CVPR 2024
 - 2023 Best Paper Award, CVPR workshop CLVision
-- 2023 First place, Visual Queries 3D Localization Challenge in Ego4D Workshop at CVPR
-- 2022 First place, Visual Queries 3D Localization Challenge in Ego4D Workshop at ECCV
+- 2023 First place, Visual Queries 3D Localization Challenge in Ego4D Workshop at CVPR 2023
+- 2022 First place, Visual Queries 3D Localization Challenge in Ego4D Workshop at ECCV 2022
 - 2021 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - 2020 Finalist, MIT Enterprise Forum Saudi Startup Competition
 - 2020 Second place, HACS Temporal Action Localization Challenge
