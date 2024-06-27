@@ -31,7 +31,7 @@ image:
   filename: featured.png
 url_dataset: ""
 url_project: ""
-url_source: "https://github.com/ coolbay/Dr2Net"
+url_source: ""
 url_video: "https://www.youtube.com/watch?v=kjagZDwgUFw"
 author_notes: []
 doi: ""
@@ -40,5 +40,5 @@ date: 2024-01-04T00:00:02.020Z
 url_slides: ""
 publishDate: 2024
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/coolbay/Dr2Net"
 ---
