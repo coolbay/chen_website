@@ -9,7 +9,7 @@ title: News
 - [2024-05-05] I gave a lecture in KAUST CEMSE graduate seminar on "Toward Long-form Video Understanding" as part of [KAUST Research Open Week]("https://researchopenweek.kaust.edu.sa")!
 - [2024-03-28] We released [OpenTAD]("https://github.com/sming256/OpenTAD"), an open-source toolbox for temporal action detection (TAD), comprising 14 methods with 8 datasets.
 - [2024-02-27] 4 papers are accepted to CVPR 2024: [Dr2Net]({{< relref "../publication/Dr2Net" >}}), [AdaTAD]({{< relref "../publication/AdaTAD" >}}), [TGT]({{< relref "../publication/TGT" >}}), and [Ego-Exo4D]({{< relref "../publication/Ego-exo4D" >}})!
-- [2024-02-19] I gave a spotlight talk in the [Rising Star in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024) !
+- [2024-02-19] I gave a spotlight talk in the [Rising Star in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024) !
 
 
 ### 2023
@@ -23,7 +23,7 @@ title: News
 - [2023-04-04] [OWL]({{< relref "../publication/OWL" >}}) was accepted to CVPRW'23 L3D-IVU !
 - [2023-03-29] [SMILE]({{< relref "../publication/SMILE" >}}) was accepted to CVPRW'23 CLVision!
 - [2023-02-27] [Re2TAL]({{< relref "../publication/Re2TAL" >}}) and [LF-VSN]({{< relref "../publication/LF-VSN" >}}) were accepted to CVPR'23!
-- [2023-02-20] I gave a spotlight talk in the [Rising Star in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2023) !
+- [2023-02-20] I gave a spotlight talk in the [Rising Star in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) !
 
 ### 2022
 
