@@ -4,6 +4,7 @@ title: News
 
 
 ### 2024
+- [2024-10-07] I gave a lecture  on "Reversifying Neural Networks: Efficient Memory Optimization Strategies for Finetuning Large Models" in KAUST CS Seminar.
 - [2024-06-18] I gave a talk  on "Towards More Realistic Continual Learning at Scale" as an invited speaker in the [CLVision Workshop in CVPR 2024]("https://sites.google.com/view/clvision2024"). 
 - [2024-06-17] We have won the first place in 4 challenges in CVPR 2024: Epic-kitchens audio-based interaction detection, Epic-kitchens action detection, Epic-kitchens action recognition, Ego4D Visual Queries 3D!
 - [2024-06-11] I gave a talk on "Optimizing Memory Efficiency in Pretrained Model Finetuning" in [the Berkeley Artificial Intelligence Research (BAIR) Lab]("https://bair.berkeley.edu"), UC Berkeley. 
