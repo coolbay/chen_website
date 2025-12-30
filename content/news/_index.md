@@ -2,6 +2,8 @@
 title: News
 ---
 
+### 2025
+- [2025-02-27] 3 papers are accepted to CVPR 2025!
 
 ### 2024
 - [2024-10-07] I gave a lecture  on "Reversifying Neural Networks: Efficient Memory Optimization Strategies for Finetuning Large Models" in KAUST CS Seminar.
